@@ -1,4 +1,4 @@
-//Michael Hall
+//Michael Hall 
 //This program will take input from the user of how much of certain types of currency they have, and will return the amount of pennies that value is, how much that many pennies would weigh, and the volume of that many pennies.
 #include <stdio.h>
 #include <stdlib.h>
